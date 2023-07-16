@@ -1,6 +1,6 @@
 sqlalchemy
 pymysql
-dotenv
+python-dotenv
 flask
 mysql-connector-python
 os
