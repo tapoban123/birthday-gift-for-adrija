@@ -1,0 +1,31 @@
+* {
+  background-color: bisque;
+  margin: 0;
+}
+
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 50%;
+  width: 50%;
+  padding-bottom: 2rem;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  font-family: "Bitter", serif;
+}
+
+.footer {
+    height: 18rem;
+}
+.navs {
+  font-size: 18px;
+  padding-top: 12rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  text-decoration: none;
+}

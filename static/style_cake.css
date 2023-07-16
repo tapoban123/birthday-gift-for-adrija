@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    background-color: aliceblue;
+    margin-top: 10px;
+}
+
+img{
+    width: 60%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 10px solid black;
+    border-radius: 25px;
+}
+
+h1 {
+    padding-top: 3rem;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+.footer {
+    height: 18rem;
+}
+.navs {
+  font-size: 18px;
+  padding-top: 12rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  text-decoration: none;
+}

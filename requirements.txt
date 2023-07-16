@@ -1,0 +1,5 @@
+sqlalchemy
+pymysql
+dotenv
+flask
+mysql-connector-python
