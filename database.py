@@ -1,7 +1,6 @@
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 from os import environ
-import base64
 
 load_dotenv('.env')
 
