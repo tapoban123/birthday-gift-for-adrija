@@ -3,5 +3,4 @@ pymysql
 python-dotenv
 flask
 mysql-connector-python
-os
 base64
